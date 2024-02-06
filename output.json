@@ -1,0 +1,17 @@
+[
+  {
+    "team": "edg",
+    "units": 1,
+    "odds": 1
+  },
+  {
+    "team": "edg",
+    "units": 0.5,
+    "odds": 0.5
+  },
+  {
+    "team": "blg",
+    "units": 3,
+    "odds": 1.59
+  }
+]
